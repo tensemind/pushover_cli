@@ -1,1 +1,7 @@
 # pushover_cli
+
+Simple test for more a little bit convenient pushover messaging. 
+
+Must have 2 environment variables declared:
+PUSHOVER_KEY=??????????
+PUSHOVER_TOKEN=??????????
